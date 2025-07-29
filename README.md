@@ -51,8 +51,8 @@ Line-by-line traversal logic
 
 Loop and condition flow control
 
-✅ Question 3: C Extension Module for Python 
-📄 Files:
+## ✅ Question 3: C Extension Module for Python 
+### 📄 Files:
 stats_module.c — C source for extension
 
 setup.py — Build script
@@ -88,8 +88,8 @@ Time complexity (e.g., O(n), O(n^2) for mode)
 
 Memory efficiency and usage
 
-✅ Question 4: Producer-Consumer Simulation 
-📄 File: main.c
+## ✅ Question 4: Producer-Consumer Simulation 
+### 📄 File: main.c
 🧵 Features:
 Producer adds to a shared queue every 2 seconds
 
@@ -123,8 +123,8 @@ Producer blocking when queue is full
 
 Consumer blocking when queue is empty
 
-✅ Question 5: Real-Time Chat System 
-📄 Files:
+## ✅ Question 5: Real-Time Chat System 
+### 📄 Files:
 server.c — Central chat server
 
 client.c — Interactive chat client
