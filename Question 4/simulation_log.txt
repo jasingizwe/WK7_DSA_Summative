@@ -1,0 +1,21 @@
+Produced item 1 | Queue size: 1
+Consumed item 1 | Queue size: 0
+Produced item 2 | Queue size: 1
+Consumed item 2 | Queue size: 0
+Produced item 3 | Queue size: 1
+Produced item 4 | Queue size: 2
+Consumed item 3 | Queue size: 1
+Produced item 5 | Queue size: 2
+Consumed item 4 | Queue size: 1
+Produced item 6 | Queue size: 2
+Produced item 7 | Queue size: 3
+Consumed item 5 | Queue size: 2
+Produced item 8 | Queue size: 3
+Consumed item 6 | Queue size: 2
+Produced item 9 | Queue size: 3
+Produced item 10 | Queue size: 4
+Consumed item 7 | Queue size: 3
+Consumed item 8 | Queue size: 2
+Consumed item 9 | Queue size: 1
+Consumed item 10 | Queue size: 0
+Simulation complete.
